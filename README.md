@@ -1,2 +1,2 @@
 # ScrollViewSample
-UnityにおけるScrollViewの使い方サンプル
+UnityにおけるScrollViewのサンプル
